@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-jvplopes-red.svg)](https://www.linkedin.com/in/joão-vitor-lopes-058a60230) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jvplopes/data_science/issues)
+
 <img alt="Colaboratory logo" width="100%" src="https://t4logistica.com.br/site/wp-content/uploads/2019/04/banner-rio.jpg">
 
 # Análise dos Dados do Airbnb | *Rio de Janeiro*

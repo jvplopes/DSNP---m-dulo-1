@@ -17,6 +17,4 @@ listings.csv - Summary information and metrics for listings in Rio de Janeiro (g
 
 Obs: O Rio de Janeiro é o único município brasileiro com dados disponíveis.
 
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
-</form>
+[Ver o projeto](https://github.com/jvplopes/DSNP-modulo_1/blob/main/Analisando_os_Dados_do_Airbnb_Rio_de_janeiro.ipynb)
